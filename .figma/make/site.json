@@ -1,7 +1,8 @@
 {
+  "title": "IVE Design Guide",
   "description": "This platform offers a comprehensive framework of 9 evidence-based design guidelines for creating effective user interfaces in immersive VR training, enhancing learning outcomes and user engagement.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
